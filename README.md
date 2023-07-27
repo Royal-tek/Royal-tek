@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Anything Exciting**
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **Vue Js** **Node Js** **Python**
 
 - 📫 How to reach me **afonimeroyal@gmail.com**
 
