@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royal-tek" alt="royal-tek" /></a> </p>
 
-- 🔭 I’m currently working at **SEEDGATE TECHNOLOGIES AS A SYSTEM ARCHITECT**
+- 🔭 I’m currently working at Seedgate Technologies As A ** SYSTEM ARCHITECT**
 
 - 🌱 I’m currently learning **Web 3**
 
