@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afonime Royal</h1>
-<h3 align="center">System ASystem Architect| Full Stack Engineer | Project Manager - Software Development.</h3>
+<h3 align="center">System Architect| Full Stack Engineer | Project Manager - Software Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royal-tek" alt="royal-tek" /></a> </p>
 
