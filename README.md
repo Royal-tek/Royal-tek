@@ -3,13 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royal-tek" alt="royal-tek" /></a> </p>
 
-- 🌱 I’m currently learning **Web 3**
-
-- 👯 I’m looking to collaborate on **Saas Application Development.**
-
-- 💬 Ask me about **Fullstack Development.**
-
-- 📫 How to reach me **afonimeroyal@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
